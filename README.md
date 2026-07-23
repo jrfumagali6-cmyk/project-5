@@ -16,3 +16,8 @@ Next, we have the highlighted topics present in the COPOM Minute; in my case, I 
 
 <img src ="images52/projeto 5 parte 2.png" width = "900">
 
+Last, we have a word cloud, and here, the bigger the word, the more often it appears in the text. 
+
+
+<img src ="images52/projeto 5 parte 3.png" width = "900">
+
